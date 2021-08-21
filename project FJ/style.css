@@ -1,0 +1,54 @@
+*{margin: 0;
+padding: 0;}
+
+body{
+	margin: 0;
+	font-family: "Sofia", sans-serif;
+	font-size: 18px;
+	color: grey;
+	line-height: 1.6;
+
+	}
+
+.aaa {
+background-image: url("b.jpg");
+background-size: cover;
+background-position: center;
+height: 100vh;
+
+
+}
+/*
+a:hover {color: whitesmoke; background-color: indianred; }*/
+.button {background-color: grey;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer; 
+text-decoration: none;
+}
+
+.aaa{
+	text-align: center;
+	padding-top: 30vh;
+	font-size: 1.1em;b
+  
+}
+
+a:hover {
+background-color: lightgray ;
+
+
+}
+/*
+a:hover {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+ 
+}*/
+
